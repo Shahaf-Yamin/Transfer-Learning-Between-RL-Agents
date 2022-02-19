@@ -1,4 +1,4 @@
-# Gym-Transfer-Learning
+# Transfer-Learning-Between-RL-Agents
 Solving Cartpole-v1, Acrobot-v1, MountainCarContinuous-v0 using Policy-gradient methods, transfer learning, and simplified progressive-network.
 
 Abbreviations: Transfer Learning (TL), Cartpole-v1(CP-v1), Acrobot-v1 (AB-v1), MountainCarContinuous-v0 (MCC-v0), Simplified Progressive Network (SPN)
